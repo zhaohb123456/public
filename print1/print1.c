@@ -12,4 +12,5 @@ void print1()
 {
 	printf("%s print\n", __FUNC__);
 	printf("201506011437\n");
+	printf("201506011615\n");
 }
