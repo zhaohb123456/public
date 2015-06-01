@@ -4,6 +4,7 @@
  * Create time   : 2015-06-01 11:12
  * Modified      : append in the following formate
  * year-month-day description
+ * 2015-06-01 nuc0707#163#com add print
  */
 
 #include <stdio.h>
