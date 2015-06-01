@@ -14,6 +14,7 @@ int main(void)
 {
 	printf("%s print\n", __FUNC__);
 	printf("20150601 add\n");
+	printf("201506011522 add\n");
 	print1();
 	return 0;
 }
