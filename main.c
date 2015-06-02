@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include "print1.h"
 
+// add lhj
 int main(void)
 {
 	printf("%s print\n", __FUNC__);
