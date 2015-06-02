@@ -19,6 +19,7 @@ int main(void)
 	printf("201506011610 add\n");
 	printf("201506011615 add\n");
 	printf("chenjian add\n");
+	printf("luochangqing\n");
 	print1();
 	return 0;
 }
