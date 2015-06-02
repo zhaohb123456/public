@@ -22,6 +22,7 @@ int main(void)
 	printf("chenjian add\n");
 	printf("luochangqing\n");
 	printf("liuhengjian\n");
+	printf("luochangqing2222\n");
 	print1();
 	return 0;
 }
